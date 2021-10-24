@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import OrderIcon from '@material-ui/icons/AttachMoney';
 
 import OrderList from './OrderList';

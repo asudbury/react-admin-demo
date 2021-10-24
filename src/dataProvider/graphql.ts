@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import { ApolloQueryResult } from '@apollo/client';
 import buildApolloClient, {
     buildQuery as buildQueryFactory,

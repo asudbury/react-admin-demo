@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default [
     { id: 'compulsive', name: 'resources.segments.data.compulsive' },
     { id: 'collector', name: 'resources.segments.data.collector' },

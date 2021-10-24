@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import ProductIcon from '@material-ui/icons/Collections';
 import ProductList from './ProductList';
 import ProductEdit from './ProductEdit';

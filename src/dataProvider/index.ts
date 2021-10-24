@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import { DataProvider } from 'react-admin';
 import fakeServerFactory from '../fakeServer';
 

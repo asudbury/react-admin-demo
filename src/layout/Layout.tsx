@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import * as React from 'react';
 import { useSelector } from 'react-redux';
 import { Layout, LayoutProps } from 'react-admin';
