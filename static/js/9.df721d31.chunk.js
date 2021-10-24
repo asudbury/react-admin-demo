@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-admin-demo"]=this["webpackJsonpreact-admin-demo"]||[]).push([[9],{1729:function(e,t,n){"use strict";n.r(t);var r=n(1719),a=n.n(r),o=n(1567),i=n(1561),c=n.n(i);t.default=function(){var e=c()({serializeDate:!0}),t=new a.a.FetchServer("http://localhost:4000");return window&&(window.restServer=t),t.init(e),t.toggleLogging(),o.a.mock("begin:http://localhost:4000",t.getHandler()),function(){return o.a.restore()}}}}]);
+//# sourceMappingURL=9.df721d31.chunk.js.map
