@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_admin_demo=self.webpackChunkreact_admin_demo||[]).push([[127],{38127:function(e,t,n){n.r(t);var r=n(34579),o=n.n(r),a=n(9271),i=n(43409),c=n.n(i);t.default=function(){var e=c()({serializeDate:!0}),t=new(o().FetchServer)("http://localhost:4000");return window&&(window.restServer=t),t.init(e),t.toggleLogging(),a.Z.mock("begin:http://localhost:4000",t.getHandler()),function(){return a.Z.restore()}}}}]);
-//# sourceMappingURL=127.ba2a7ac8.chunk.js.map

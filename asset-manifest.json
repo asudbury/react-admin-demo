@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.js": "/react-admin-demo/static/js/main.103cb857.js",
-    "static/js/950.700ea60d.chunk.js": "/react-admin-demo/static/js/950.700ea60d.chunk.js",
-    "static/js/434.e4b12aec.chunk.js": "/react-admin-demo/static/js/434.e4b12aec.chunk.js",
-    "static/js/386.4bb1c7f1.chunk.js": "/react-admin-demo/static/js/386.4bb1c7f1.chunk.js",
-    "static/js/856.f00537c8.chunk.js": "/react-admin-demo/static/js/856.f00537c8.chunk.js",
-    "static/js/127.ba2a7ac8.chunk.js": "/react-admin-demo/static/js/127.ba2a7ac8.chunk.js",
-    "static/js/262.6b1650c3.chunk.js": "/react-admin-demo/static/js/262.6b1650c3.chunk.js",
-    "static/js/852.b2367141.chunk.js": "/react-admin-demo/static/js/852.b2367141.chunk.js",
-    "static/js/74.63f16550.chunk.js": "/react-admin-demo/static/js/74.63f16550.chunk.js",
-    "static/js/579.fb3391a9.chunk.js": "/react-admin-demo/static/js/579.fb3391a9.chunk.js",
+    "main.js": "/react-admin-demo/static/js/main.fbfa2b59.js",
+    "static/js/109.e6596171.chunk.js": "/react-admin-demo/static/js/109.e6596171.chunk.js",
+    "static/js/39.9a3f47f3.chunk.js": "/react-admin-demo/static/js/39.9a3f47f3.chunk.js",
+    "static/js/728.f1a1f29f.chunk.js": "/react-admin-demo/static/js/728.f1a1f29f.chunk.js",
+    "static/js/648.39777473.chunk.js": "/react-admin-demo/static/js/648.39777473.chunk.js",
+    "static/js/591.ca526441.chunk.js": "/react-admin-demo/static/js/591.ca526441.chunk.js",
+    "static/js/508.d3ff3f33.chunk.js": "/react-admin-demo/static/js/508.d3ff3f33.chunk.js",
+    "static/js/186.8fa1ba56.chunk.js": "/react-admin-demo/static/js/186.8fa1ba56.chunk.js",
+    "static/js/865.61ee9ae0.chunk.js": "/react-admin-demo/static/js/865.61ee9ae0.chunk.js",
+    "static/js/91.3e48e42e.chunk.js": "/react-admin-demo/static/js/91.3e48e42e.chunk.js",
     "index.html": "/react-admin-demo/index.html",
-    "main.103cb857.js.map": "/react-admin-demo/static/js/main.103cb857.js.map",
-    "950.700ea60d.chunk.js.map": "/react-admin-demo/static/js/950.700ea60d.chunk.js.map",
-    "434.e4b12aec.chunk.js.map": "/react-admin-demo/static/js/434.e4b12aec.chunk.js.map",
-    "386.4bb1c7f1.chunk.js.map": "/react-admin-demo/static/js/386.4bb1c7f1.chunk.js.map",
-    "856.f00537c8.chunk.js.map": "/react-admin-demo/static/js/856.f00537c8.chunk.js.map",
-    "127.ba2a7ac8.chunk.js.map": "/react-admin-demo/static/js/127.ba2a7ac8.chunk.js.map",
-    "262.6b1650c3.chunk.js.map": "/react-admin-demo/static/js/262.6b1650c3.chunk.js.map",
-    "852.b2367141.chunk.js.map": "/react-admin-demo/static/js/852.b2367141.chunk.js.map",
-    "74.63f16550.chunk.js.map": "/react-admin-demo/static/js/74.63f16550.chunk.js.map",
-    "579.fb3391a9.chunk.js.map": "/react-admin-demo/static/js/579.fb3391a9.chunk.js.map"
+    "main.fbfa2b59.js.map": "/react-admin-demo/static/js/main.fbfa2b59.js.map",
+    "109.e6596171.chunk.js.map": "/react-admin-demo/static/js/109.e6596171.chunk.js.map",
+    "39.9a3f47f3.chunk.js.map": "/react-admin-demo/static/js/39.9a3f47f3.chunk.js.map",
+    "728.f1a1f29f.chunk.js.map": "/react-admin-demo/static/js/728.f1a1f29f.chunk.js.map",
+    "648.39777473.chunk.js.map": "/react-admin-demo/static/js/648.39777473.chunk.js.map",
+    "591.ca526441.chunk.js.map": "/react-admin-demo/static/js/591.ca526441.chunk.js.map",
+    "508.d3ff3f33.chunk.js.map": "/react-admin-demo/static/js/508.d3ff3f33.chunk.js.map",
+    "186.8fa1ba56.chunk.js.map": "/react-admin-demo/static/js/186.8fa1ba56.chunk.js.map",
+    "865.61ee9ae0.chunk.js.map": "/react-admin-demo/static/js/865.61ee9ae0.chunk.js.map",
+    "91.3e48e42e.chunk.js.map": "/react-admin-demo/static/js/91.3e48e42e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.103cb857.js"
+    "static/js/main.fbfa2b59.js"
   ]
 }
