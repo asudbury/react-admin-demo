@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-admin-demo/static/js/main.345d4669.js",
-    "static/js/14.2f895eb4.chunk.js": "/react-admin-demo/static/js/14.2f895eb4.chunk.js",
+    "main.js": "/react-admin-demo/static/js/main.e6846f91.js",
+    "static/js/950.700ea60d.chunk.js": "/react-admin-demo/static/js/950.700ea60d.chunk.js",
     "static/js/434.e4b12aec.chunk.js": "/react-admin-demo/static/js/434.e4b12aec.chunk.js",
     "static/js/386.4bb1c7f1.chunk.js": "/react-admin-demo/static/js/386.4bb1c7f1.chunk.js",
     "static/js/856.f00537c8.chunk.js": "/react-admin-demo/static/js/856.f00537c8.chunk.js",
@@ -11,8 +11,8 @@
     "static/js/74.63f16550.chunk.js": "/react-admin-demo/static/js/74.63f16550.chunk.js",
     "static/js/579.fb3391a9.chunk.js": "/react-admin-demo/static/js/579.fb3391a9.chunk.js",
     "index.html": "/react-admin-demo/index.html",
-    "main.345d4669.js.map": "/react-admin-demo/static/js/main.345d4669.js.map",
-    "14.2f895eb4.chunk.js.map": "/react-admin-demo/static/js/14.2f895eb4.chunk.js.map",
+    "main.e6846f91.js.map": "/react-admin-demo/static/js/main.e6846f91.js.map",
+    "950.700ea60d.chunk.js.map": "/react-admin-demo/static/js/950.700ea60d.chunk.js.map",
     "434.e4b12aec.chunk.js.map": "/react-admin-demo/static/js/434.e4b12aec.chunk.js.map",
     "386.4bb1c7f1.chunk.js.map": "/react-admin-demo/static/js/386.4bb1c7f1.chunk.js.map",
     "856.f00537c8.chunk.js.map": "/react-admin-demo/static/js/856.f00537c8.chunk.js.map",
@@ -23,6 +23,6 @@
     "579.fb3391a9.chunk.js.map": "/react-admin-demo/static/js/579.fb3391a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.345d4669.js"
+    "static/js/main.e6846f91.js"
   ]
 }
