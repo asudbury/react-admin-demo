@@ -12,7 +12,7 @@
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
     "data-generator-retail": "^5.3.3",
-    "fakerest": "^3.3.0",
+    "fakerest": "^4.1.1",
     "fetch-mock": "^9.11.0",
     "graphql-tag": "^2.12.5",
     "json-graphql-server": "^2.3.0",
