@@ -9724,12 +9724,12 @@ ra-data-json-server@^3.19.0:
     query-string "^5.1.1"
     ra-core "^3.19.8"
 
-ra-data-simple-rest@^3.19.0:
-  version "3.19.8"
-  resolved "https://registry.yarnpkg.com/ra-data-simple-rest/-/ra-data-simple-rest-3.19.8.tgz#b78d5b182fae7079c68528a3597e1005f32f2eb5"
-  integrity sha512-Obe00WPwlV0yTu1nilqFQOwELUobCAPIOmn4wRYxNxAgfeqn1jmN6+4Bt3ID/ksFxRjciAPiIgT/uPlHJsEBZw==
+ra-data-simple-rest@^5.3.4:
+  version "5.3.4"
+  resolved "https://registry.yarnpkg.com/ra-data-simple-rest/-/ra-data-simple-rest-5.3.4.tgz#873280d1b08affdf5581b466fb854da106fb5844"
+  integrity sha512-iT50vw7bpmBdu4HJhLHFzBVom/Y2N4WhV2Wzbagq+VdLNRDuX8wI/KL9QIyuZiy7//EEwsxdcCzasKSjQoVTXg==
   dependencies:
-    query-string "^5.1.1"
+    query-string "^7.1.3"
 
 ra-i18n-polyglot@^4.16.20:
   version "4.16.20"
