@@ -14,7 +14,7 @@
     "data-generator-retail": "^5.3.4",
     "fakerest": "^4.1.1",
     "fetch-mock": "^12.2.0",
-    "graphql-tag": "^2.12.5",
+    "graphql-tag": "^2.12.6",
     "json-graphql-server": "^2.3.0",
     "proxy-polyfill": "^0.3.2",
     "query-string": "^9.1.1",
