@@ -11,7 +11,7 @@
     "@types/node": "^22.10.1",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
-    "data-generator-retail": "^5.4.0",
+    "data-generator-retail": "^5.4.1",
     "fakerest": "^4.1.1",
     "fetch-mock": "^12.2.0",
     "graphql-tag": "^2.12.6",
