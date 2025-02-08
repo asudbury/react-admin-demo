@@ -9707,10 +9707,10 @@ ra-core@^4.16.20:
     react-is "^17.0.2"
     react-query "^3.32.1"
 
-ra-core@^5.4.4, ra-core@^5.5.2:
-  version "5.5.2"
-  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-5.5.2.tgz#70755fd1680f4c48d75e18f5548eab423a230f8d"
-  integrity sha512-XH85pGHjDwuDkTWHKv3agrOxP9KWs1gx5KOnzVf9MTFqyOiA4rYIUSLakI/aovM+VYBJsU6Wku7qSOkoZeaZ8A==
+ra-core@^5.4.4, ra-core@^5.5.3:
+  version "5.5.3"
+  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-5.5.3.tgz#9068b1704699b9da7bfc5ac1fce3c51f2311d901"
+  integrity sha512-HoyY0El+KODNGsuHr/t74kCb40B9kUCD7nYmGczgHla+URaJhu71ss86urS33zrSta9nGapoO7OUaxyVlaZF4A==
   dependencies:
     "@tanstack/react-query" "^5.21.7"
     clsx "^2.1.1"
@@ -9783,12 +9783,12 @@ ra-language-english@^4.16.20:
   dependencies:
     ra-core "^4.16.20"
 
-ra-language-french@^5.5.2:
-  version "5.5.2"
-  resolved "https://registry.yarnpkg.com/ra-language-french/-/ra-language-french-5.5.2.tgz#2ff25ea08b5069147dd7f88de45f7c44f90a9c90"
-  integrity sha512-bbLpTA7uGnvcn9uL1H/Q9l4RysNM99NhmdaVouRHHS9AdECnKvAFdccAE0UJbg5C8Lg4ui2zFfmgxbGeUjgGNw==
+ra-language-french@^5.5.3:
+  version "5.5.3"
+  resolved "https://registry.yarnpkg.com/ra-language-french/-/ra-language-french-5.5.3.tgz#b2b32b8d57bfea6f4af47b7ae0d74e9d4fd84f7b"
+  integrity sha512-u66tPJN/6hQUAFsg17jJmP/tzfxdS/coyFNsunfIRx+T5++PhOIlBqkNVMzFQIbHMKuOLjivHBQKAIIbDuFt8g==
   dependencies:
-    ra-core "^5.5.2"
+    ra-core "^5.5.3"
 
 ra-ui-materialui@^4.16.20:
   version "4.16.20"
