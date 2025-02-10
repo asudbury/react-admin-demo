@@ -6097,10 +6097,10 @@ faker@^4.1.0:
   resolved "https://registry.yarnpkg.com/faker/-/faker-4.1.0.tgz#1e45bbbecc6774b3c195fad2835109c6d748cc3f"
   integrity sha1-HkW7vsxndLPBlfrSg1EJxtdIzD8=
 
-fakerest@^4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/fakerest/-/fakerest-4.1.1.tgz#76565d429854df1d00dc234b080f0877086220f7"
-  integrity sha512-GPF+MQQI4GqlSK0yYUjX/LmXyzAxmMMIPqoRz0rF8UVauJLs1gZEvGzhWCJD9RkLiQQK86wVm0A/Kig3xgChIQ==
+fakerest@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/fakerest/-/fakerest-4.1.2.tgz#30d85b301dfab217485dd57f9b4881df131cd990"
+  integrity sha512-Dct66xRpUGgUJYJl2YTNRD+2bLhpTSCiIfm2i/Vm5S3HOOOtTjW89z7NMeY+dByCdQTGPvMxbWMKjUIJWsHZoA==
   dependencies:
     lodash "^4.17.21"
 
