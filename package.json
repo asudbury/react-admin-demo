@@ -57,7 +57,7 @@
   },
   "devDependencies": {
     "@types/classnames": "^2.3.4",
-    "@types/inflection": "^1.13.2",
+    "@types/inflection": "^2.0.0",
     "@types/query-string": "^6.3.0",
     "@types/react-router-dom": "^5.3.3",
     "@types/recharts": "^1.8.29"

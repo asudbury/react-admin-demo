@@ -3132,10 +3132,12 @@
   dependencies:
     "@types/node" "*"
 
-"@types/inflection@^1.13.2":
-  version "1.13.2"
-  resolved "https://registry.yarnpkg.com/@types/inflection/-/inflection-1.13.2.tgz#89c62f16dbb7b6a9ac27b784e3b274abfe7ec83b"
-  integrity sha512-VxXY8dNLrxn7nDvsud77K60uD3a9RSmKfa0k/N/zvP2G55R5/8DSO5Ferz3mQdlAo8jPnpQLilCx9rABdPHSVg==
+"@types/inflection@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@types/inflection/-/inflection-2.0.0.tgz#7dc715d4721eb368c7006e8f2e8141c5544f04c9"
+  integrity sha512-wvtAa0dRWFxn/Dw7w7+LySUmN6Yvndvbc87djXaSc0KwhcG2g33LwXdaHg6p2KOddj/1+172GPSeazgandPO2Q==
+  dependencies:
+    inflection "*"
 
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0", "@types/istanbul-lib-coverage@^2.0.1":
   version "2.0.3"
@@ -6929,10 +6931,10 @@ indexes-of@^1.0.1:
   resolved "https://registry.yarnpkg.com/indexes-of/-/indexes-of-1.0.1.tgz#f30f716c8e2bd346c7b67d3df3915566a7c05607"
   integrity sha1-8w9xbI4r00bHtn0985FVZqfAVgc=
 
-inflection@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/inflection/-/inflection-3.0.0.tgz#6a956fa90d72a27d22e6b32ec1064877593ee23b"
-  integrity sha512-1zEJU1l19SgJlmwqsEyFTbScw/tkMHFenUo//Y0i+XEP83gDFdMvPizAD/WGcE+l1ku12PcTVHQhO6g5E0UCMw==
+inflection@*, inflection@^3.0.0:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/inflection/-/inflection-3.0.2.tgz#2f591c3dad053e3fac65a03bf6431b675d829601"
+  integrity sha512-+Bg3+kg+J6JUWn8J6bzFmOWkTQ6L/NHfDRSYU+EVvuKHDxUDHAXgqixHfVlzuBQaPOTac8hn43aPhMNk6rMe3g==
 
 inflection@~1.12.0:
   version "1.12.0"
