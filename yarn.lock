@@ -9725,21 +9725,21 @@ ra-core@^5.5.3, ra-core@^5.5.4:
     react-error-boundary "^4.0.13"
     react-is "^18.2.0 || ^19.0.0"
 
-ra-data-graphql-simple@^5.5.3:
-  version "5.5.3"
-  resolved "https://registry.yarnpkg.com/ra-data-graphql-simple/-/ra-data-graphql-simple-5.5.3.tgz#12f3d86ec6cf15b6836034ce371a3107f061f7ef"
-  integrity sha512-AKDOxtS1A/3GnvrQ7uDCasso1S1lT5PAz+OZuofcRzQt/zQp4O4uOOEB19cnIe62VEXwTRkjJTTlviO/+TDksA==
+ra-data-graphql-simple@^5.5.4:
+  version "5.5.4"
+  resolved "https://registry.yarnpkg.com/ra-data-graphql-simple/-/ra-data-graphql-simple-5.5.4.tgz#3df23f19d1eef3e91ea3b91fd7017608e65ed3b0"
+  integrity sha512-zZtWDqWrrkRggFR6UWdm5hQPBa8S6t5+YKRwPJMwxH+0ubgy4mdi0bwLq700Xu8tY0VSq0q/TMcCkuX1N9A7Xw==
   dependencies:
     "@apollo/client" "^3.3.19"
     graphql-ast-types-browser "~1.0.2"
     lodash "~4.17.5"
     pluralize "~7.0.0"
-    ra-data-graphql "^5.5.3"
+    ra-data-graphql "^5.5.4"
 
-ra-data-graphql@^5.5.3:
-  version "5.5.3"
-  resolved "https://registry.yarnpkg.com/ra-data-graphql/-/ra-data-graphql-5.5.3.tgz#67eeccf22e205350506e2e60e5d3a1181369653f"
-  integrity sha512-8FaOpaCvox4mFSgtLtJ77R4BhHuk08XFQ4xwMLHECb2SWlRu2AteOMBu/EVvnt9hDwFxTIydbGFJs1gWFbvqBA==
+ra-data-graphql@^5.5.4:
+  version "5.5.4"
+  resolved "https://registry.yarnpkg.com/ra-data-graphql/-/ra-data-graphql-5.5.4.tgz#f2f4a560670c85de14416fdc6da683d2f3f44a7e"
+  integrity sha512-lplKNzV/wg3/9AVAcgP3nGJW4h2cGY+M+UVeX8pkRzjsJR7WBhhhW4Q0nPCdKzcvFfDAFAdYTW5zNkYUqtUNCw==
   dependencies:
     "@apollo/client" "^3.3.19"
     lodash "~4.17.5"
