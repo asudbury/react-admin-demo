@@ -9709,10 +9709,10 @@ ra-core@^4.16.20:
     react-is "^17.0.2"
     react-query "^3.32.1"
 
-ra-core@^5.5.4:
-  version "5.5.4"
-  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-5.5.4.tgz#5a9fe2133386fad06da952c35189b725ef3a6121"
-  integrity sha512-CgbhXOflN/tMnW6zgTGoTFm5tn+Wl196cRYcQnUuxiPuVei316lTu1/N0tCrohrqFTRcUsfz3upECQRX3IfYjg==
+ra-core@^5.5.4, ra-core@^5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-5.6.0.tgz#7e543c10c47f8c77000c1b1a211e043c0865f286"
+  integrity sha512-rYOr+JOm7l1yN+tlflR8zKpZYpY8tdn13/+gRPsH+CFlLRHIAcdUsXJ4/sacWwcUOGybcwAnPy4uEXZo+Xey2g==
   dependencies:
     "@tanstack/react-query" "^5.21.7"
     clsx "^2.1.1"
@@ -9745,13 +9745,13 @@ ra-data-graphql@^5.6.0:
     lodash "~4.17.5"
     pluralize "~7.0.0"
 
-ra-data-json-server@^5.5.4:
-  version "5.5.4"
-  resolved "https://registry.yarnpkg.com/ra-data-json-server/-/ra-data-json-server-5.5.4.tgz#73383b0166ff54a5eeed3e11a2bf1c2c4ec6aced"
-  integrity sha512-AZXDpVz7YvXgfrsGrPr/GOTcaBXKKLyJVpgiTpS+wSOV8jAOugO4RiUKF6lMrNViHT7OxDM+TMxrlHWodjmN9w==
+ra-data-json-server@^5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/ra-data-json-server/-/ra-data-json-server-5.6.0.tgz#f6955a76253d3fdc33ff4aca3cb7837064b2841a"
+  integrity sha512-Go9tXzNoflcBIFfe5dgk/JC2XRqANZfaVA9SUt8D/tS1E65VEVjGg1HxOfb1gG1fLcxEZ6mghBDWTyOuCY40Hg==
   dependencies:
     query-string "^7.1.3"
-    ra-core "^5.5.4"
+    ra-core "^5.6.0"
 
 ra-data-simple-rest@^5.4.4:
   version "5.4.4"
