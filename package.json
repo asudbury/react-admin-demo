@@ -13,7 +13,7 @@
     "@types/react-dom": "^17.0.0",
     "data-generator-retail": "^5.6.1",
     "fakerest": "^4.1.2",
-    "fetch-mock": "^12.4.0",
+    "fetch-mock": "^12.5.2",
     "graphql-tag": "^2.12.6",
     "json-graphql-server": "^3.2.0",
     "proxy-polyfill": "^0.3.2",
