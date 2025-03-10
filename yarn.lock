@@ -9731,10 +9731,10 @@ ra-data-json-server@^5.6.2:
     query-string "^7.1.3"
     ra-core "^5.6.2"
 
-ra-data-simple-rest@^5.6.2:
-  version "5.6.2"
-  resolved "https://registry.yarnpkg.com/ra-data-simple-rest/-/ra-data-simple-rest-5.6.2.tgz#1027fd25928f09867c5407e5f8d9d6185e4741a0"
-  integrity sha512-yk3phlrJij4KHvlIi1iFDcj//p728xSNgZoUYEpzh89/dbg5wyzBQlq0vydX4phWYlQN2BgFap/Z/9SO0qUg+w==
+ra-data-simple-rest@^5.6.3:
+  version "5.6.3"
+  resolved "https://registry.yarnpkg.com/ra-data-simple-rest/-/ra-data-simple-rest-5.6.3.tgz#2904f9380a06eace259bfaf4f8e60b1d950b9ba1"
+  integrity sha512-aADv4OR9NfjBlWgO/ljFwyMlKu3tgWsFTka9FFxzRr5i2h3dxERbjFrZfPsD4ZAUPv4zmG+UQXqybPThoZTpLg==
   dependencies:
     query-string "^7.1.3"
 
