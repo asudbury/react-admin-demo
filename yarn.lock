@@ -7972,10 +7972,10 @@ jsesc@~0.5.0:
   resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-0.5.0.tgz#e7dee66e35d6fc16f710fe91d5cf69f70f08911d"
   integrity sha1-597mbjXW/Bb3EP6R1c9p9w8IkR0=
 
-json-graphql-server@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/json-graphql-server/-/json-graphql-server-3.2.0.tgz#1bd2cfd7b0fa745231b87a7488906573721333fa"
-  integrity sha512-eYEFhl02ZGWFDw7QNhVBZfbJek9mbWCKrA1cVi/FPizLM2Fu5pY+3Rqt1J0q12uhrf4vX9Pp0/07czFWR2fCJw==
+json-graphql-server@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/json-graphql-server/-/json-graphql-server-3.2.1.tgz#c0a6afa483b914b28a8c7efcae2d594392472e46"
+  integrity sha512-ea1GE6bK+irxAiWpuNveRIwSLPdjVgtGjTRaux347UBysv55xSqr4IjhUdJftm/17lN2S9zwKRo6vbLz9mf1HA==
   dependencies:
     "@apollo/client" "^3.12.11"
     "@graphql-tools/schema" "^10.0.18"
