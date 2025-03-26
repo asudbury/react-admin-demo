@@ -9710,7 +9710,7 @@ ra-core@^4.16.20:
     react-is "^17.0.2"
     react-query "^3.32.1"
 
-ra-core@^5.6.3, ra-core@^5.6.4:
+ra-core@^5.6.4:
   version "5.6.4"
   resolved "https://registry.yarnpkg.com/ra-core/-/ra-core-5.6.4.tgz#a6855225f52adc03d3ec2f321b75ab19e109e307"
   integrity sha512-idztaulIYfVLBTcuHn6w1m4vHEsF0Bz2O2kd3I3W6BzzQPPJ//zkGtmm93GoGs7n6esw+05GV0CR/ilb4fUi0Q==
@@ -9786,12 +9786,12 @@ ra-language-english@^4.16.20:
   dependencies:
     ra-core "^4.16.20"
 
-ra-language-french@^5.6.3:
-  version "5.6.3"
-  resolved "https://registry.yarnpkg.com/ra-language-french/-/ra-language-french-5.6.3.tgz#9f07b414985482c2cc9e195b874f1d6b5ade39aa"
-  integrity sha512-L4CqXCxFIwU4OzWSPnrdbBJmiDxcNjh13VWsm43G2hEnobTzUoe2G7L7zRJYgL7rSzziyc89RryyKkJCw/MKYw==
+ra-language-french@^5.6.4:
+  version "5.6.4"
+  resolved "https://registry.yarnpkg.com/ra-language-french/-/ra-language-french-5.6.4.tgz#cfcaedf21f2d63e74bd889647979ea6d5786e8a4"
+  integrity sha512-XUkPY9Y8FZ9KesLMqQiJj43JtcRQTs+Cgq/6JMkJYKR2quAg7a3yw2YHyYaGSF8zfMwzj6kNksQW2mgtF7kTZg==
   dependencies:
-    ra-core "^5.6.3"
+    ra-core "^5.6.4"
 
 ra-ui-materialui@^4.16.20:
   version "4.16.20"
