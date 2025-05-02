@@ -17,7 +17,7 @@
     "graphql-tag": "^2.12.6",
     "json-graphql-server": "^3.2.1",
     "proxy-polyfill": "^0.3.2",
-    "query-string": "^9.1.1",
+    "query-string": "^9.1.2",
     "ra-data-graphql-simple": "^5.8.0",
     "ra-data-json-server": "^5.7.4",
     "ra-data-simple-rest": "^5.7.4",
