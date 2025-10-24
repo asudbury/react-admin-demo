@@ -5040,10 +5040,10 @@ damerau-levenshtein@^1.0.8:
   resolved "https://registry.yarnpkg.com/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz#b43d286ccbd36bc5b2f7ed41caf2d0aba1f8a6e7"
   integrity sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA==
 
-data-generator-retail@^5.8.0:
-  version "5.8.0"
-  resolved "https://registry.yarnpkg.com/data-generator-retail/-/data-generator-retail-5.8.0.tgz#dcf20ee87eb0201767f256be76e4d81dc1de0d77"
-  integrity sha512-RqTmCG7WiH10iESP65sQQGyES6mz3A9evAlrgkd+J5Qma3Mtlk9MyH/qUrvYIKcI9dYdiEUaJ9vUKHmJav6VXQ==
+data-generator-retail@^5.12.2:
+  version "5.12.2"
+  resolved "https://registry.yarnpkg.com/data-generator-retail/-/data-generator-retail-5.12.2.tgz#c26cd7321dcc9406a04ba6651f96ed833446d933"
+  integrity sha512-Y73C6h6zFuHM/bm1M75jFcWXpM56nfYceU5/EK2xjWQQFzOO4yslE01YosjZMGUImK6TH1lwidpCGZdkgiJrsg==
   dependencies:
     date-fns "^3.6.0"
     faker "^4.1.0"
